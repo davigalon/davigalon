@@ -29,8 +29,6 @@ Ainda tô pensando numa descrição boa
 ## 🏆 Troféus
 ![](https://github-profile-trophy.vercel.app/?username=davigalon&theme=default&no-frame=true&no-bg=false&margin-w=4)
 
+![snake gif](https://github.com/davigalon/davigalon/blob/output/github-snake-dark.svg)
+
 ---
-
-[![](https://visitcount.itsvg.in/api?id=davigalon&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
