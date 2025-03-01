@@ -2,8 +2,8 @@ Ainda tô pensando numa descrição boa
 
 <div style="display: inline-block">
   <a href="https://github.com/davigalon">
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=davigalon&show_icons=true&theme=vue" />
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davigalon&layout=compact&theme=gotham"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=davigalon&show_icons=true&theme=vue" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davigalon&layout=compact&theme=gotham"/>
 </div><br>
 
 <div>
