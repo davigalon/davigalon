@@ -2,8 +2,8 @@ Ainda tô pensando numa descrição boa
 
 <div style="display: inline-block">
   <a href="https://github.com/davigalon">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=davigalon&show_icons=true&theme=vue" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davigalon&layout=compact&theme=gotham"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=davigalon&theme=vue&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davigalon&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div><br>
 
 <div>
@@ -27,7 +27,7 @@ Ainda tô pensando numa descrição boa
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/galon_davi) 
 
 ## 🏆 Troféus
-![](https://github-profile-trophy.vercel.app/?username=davigalon&theme=default&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=davigalon&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 ![snake gif](https://github.com/davigalon/davigalon/blob/output/github-snake-dark.svg)
 
