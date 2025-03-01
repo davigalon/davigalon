@@ -27,7 +27,7 @@ Ainda tô pensando numa descrição boa
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/galon_davi) 
 
 ## 🏆 Troféus
-![](https://github-profile-trophy.vercel.app/?username=davigalon&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=davigalon&theme=default&no-frame=true&no-bg=true&margin-w=4)
 
 ![snake gif](https://github.com/davigalon/davigalon/blob/output/github-snake-dark.svg)
 
