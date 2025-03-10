@@ -3,7 +3,7 @@ Ainda tô pensando numa descrição boa
 <div style="display: inline-block">
   <a href="https://github.com/davigalon">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=davigalon&theme=vue&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davigalon&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davigalon&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact&size_weight=0&count_weight=1"/>
 </div><br>
 
 <div>
